@@ -12,3 +12,8 @@ Gestion d'une classe d'élèves CRUD
 
 ### Idées perso
 Charger les données au lancement dans un tableau. Tableau mis a jour et BDD mise a jour tout les X temps par rapport au tableau
+
+### Utiliser
+```shell
+npm run start
+```
